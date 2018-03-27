@@ -14,7 +14,7 @@ Culture générale, logique, sens de l’orientation... sont les qualités requi
 
 <img src="{{ site.baseurl }}public/img/groupe.jpg">
  
-Trois thèmes sont proposés aux adultes, un thème s'adresse aux ados, trois niveaux sont réservés aux enfants. Un coloriage permet aux plus petits de participer également Un parcours à faire seul, en famille ou entre amis.
+Trois thèmes sont proposés aux adultes, un thème s'adresse aux ados, trois niveaux sont réservés aux enfants. Un coloriage permet aux plus petits de participer également. Un parcours à faire seul, en famille ou entre amis.
 
 
 ## Pourquoi le labyrinthe ?
@@ -23,6 +23,6 @@ Valoriser, animer le site de la gare, rechercher des activités touristiques, sp
 
 Sur plusieurs kilomètres, au hasard de nouveaux chemins, les aventuriers d’un jour partiront à la recherche de panneaux comportant plusieurs questionnaires sur différents thèmes.
  
-Conçu et géré par des bénévoles qui se sont constitués en association, le labyrinthe végétal de Vigy entame sa treizième saison.
+Conçu et géré par des bénévoles qui se sont constitués en association, le labyrinthe végétal de Vigy entame sa dix-septième saison.
 
 <center><img src="{{ site.baseurl }}public/img/chalet.jpg"></center>
