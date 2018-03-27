@@ -7,7 +7,8 @@ layout: page
  
 ### Le labyrinthe est ouvert :
 * tous les jours du 1er juillet au 31 Août 2018
-* sur réservation en semaine pour les groupes
+* les deux premiers week-end de septembre
+* en semaine, sur réservation,  pour les groupes de plus de 20 personnes
  
 <center>
 <img src="{{ site.baseurl }}public/img/ecole.jpg">
