@@ -7,7 +7,7 @@ layout: page
 
 
 <style>
-input[type=text], input[type=email] select {
+input[type=text], input[type=email], select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
