@@ -54,7 +54,7 @@ form {
     <input type="text" name="_subject">
     
     <label for="message">Message</label>
-    <textarea name="message" rows="10" col="50"></textarea>
+    <textarea name="message" rows="10" col="150"></textarea>
     
     <input type="submit" value="Envoyer">
 </form>
