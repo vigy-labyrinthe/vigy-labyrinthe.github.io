@@ -11,7 +11,7 @@ input[type=text], select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
-    /*display: inline-block;*/
+    display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
@@ -47,14 +47,14 @@ form {
     <label for="name">Votre nom</label> 
     <input type="text" name="name">
     
-    <label for="email">Votre adresse email</label> 
+    <label for="_replyto">Votre adresse email</label> 
     <input type="email" name="_replyto">
     
     <label for="_subject">Sujet</label>
     <input type="text" name="_subject">
     
     <label for="message">Message</label>
-    <textarea name="message"></textarea>
+    <textarea name="message" rows="10" col="50"></textarea>
     
     <input type="submit" value="Envoyer">
 </form>
