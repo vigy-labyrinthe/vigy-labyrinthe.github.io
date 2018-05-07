@@ -37,6 +37,9 @@ form {
     background-color: #f2f2f2;
     padding: 20px;
 }
+textarea {
+    width: 100%;
+}
 </style>
 
 
