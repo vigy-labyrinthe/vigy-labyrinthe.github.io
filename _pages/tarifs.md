@@ -21,9 +21,12 @@ layout: page
   * Enfant : 1,50 € pour les moins de 12 ans
  
 * Pack Labyrinthe-Train :
-  * Adulte : 10 €
-  * Enfant : 6 € pour les moins de 12 ans
+  * Adulte : 6 €
+  * Enfant : 4 € pour les moins de 12 ans
  
+* NOCTURNE :
+  * Adulte : 4 €
+  * Enfant : 3 € pour les moins de 12 ans
  
 Nos amis les animaux ne sont pas admis à l'intérieur du labyrinthe. Merci.
 
