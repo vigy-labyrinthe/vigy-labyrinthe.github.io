@@ -7,13 +7,14 @@ title: Accueil
 
 ### Saison 2018
 
-La nouvelle saison du labyrinthe a débuté le 1er juillet.
-Il est ouvert tous les jours de 13 h à 19 h et le dimanche de 11 h à 19 h.
+La saison 2018. du labyrinthe se termine.
+Nous sommes ouverts les 3 premiers week-end de septembre. Le dernier jour de fonctionnement sera le 16 septembre.
 
-### Nocturnes 2018
-Les soirées nocturnes auront lieu les 4 et 18 Août 2018 (Sur réservation).
-Adultes : 4 €
-Enfants : 3 €
+### Train de Halloween
+
+Pour mettre un point final à la saison 2018, le labyrinthe et le train touristique proposent une animation commune le 27 et 28 octobre 2018.
+- voyage en autorail, contes d'Halloween, atelier maquillage, nombreux jeux pour enfants et adultes, stand crêpes sans oublier la traditionnelle soupe de la sorcière.
+Rendez-vous à la gare pour le voyage en train puis au labyrinthe pour de nombreux jeux pour tous. 
 
 
 ### Pour nous joindre
