@@ -11,7 +11,7 @@ layout: page
 * dimanches et fêtes :
   * de 11 h à 19 h
 
-## TARIFS
+## TARIFS 2019
 * Individuel :
   * Adulte : 3 €
   * Enfant : 2 € pour les moins de 12 ans
