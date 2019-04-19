@@ -5,16 +5,24 @@ title: Accueil
 
 <h1> Bienvenue sur le site du labyrinthe de vigy ! </h1>
 
-### Saison 2018
+### Saison 2019
 
-La saison 2018. du labyrinthe se termine.
-Nous sommes ouverts les 3 premiers week-end de septembre. Le dernier jour de fonctionnement sera le 16 septembre.
+La saison 2019 du labyrinthe se prépare.
+Le plan est prêt, les énigmes partiellement prêtes, il faut maintenant que le maïs pousse afin que nous puissions tracer le parcours 2019. Nous vous tiendrons informés de la date exacte d'ouverture (début juillet)
 
-### Train de Halloween
+### Train du muguet à l'Espace Gare le 1er Mai 2019
 
-Pour mettre un point final à la saison 2018, le labyrinthe et le train touristique proposent une animation commune le 27 et 28 octobre 2018.
-- voyage en autorail, contes d'Halloween, atelier maquillage, nombreux jeux pour enfants et adultes, stand crêpes sans oublier la traditionnelle soupe de la sorcière.
-Rendez-vous à la gare pour le voyage en train puis au labyrinthe pour de nombreux jeux pour tous. 
+Pour lancer la nouvelle saison à l'Espace Gare de Vigy, les Associations touristiques se mobilisent pour vous proposer une journée d'animation qui se déroulera le 1er Mai 2019. Nous vous proposons : 
+- un marché artisanal, 
+- des  ateliers artistiques pour adultes et enfants, 
+- les puces des couturières, 
+- un atelier de maquillage pour enfants... 
+
+Nous travaillons à la mise en place d'un petit musée campagnard et vous proposerons l'exposition de quelques pièces qui seront exposées ultérieurement dans ce musée. 
+
+Un des points forts de la journée sera le voyage en train avec cueillette du muguet. 
+
+Il sera possible de se restaurer sur place. 
 
 
 ### Pour nous joindre
