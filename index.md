@@ -8,21 +8,22 @@ title: Accueil
 ### Saison 2019
 
 La saison 2019 du labyrinthe se prépare.
-Le plan est prêt, les énigmes partiellement prêtes, il faut maintenant que le maïs pousse afin que nous puissions tracer le parcours 2019. Nous vous tiendrons informés de la date exacte d'ouverture (début juillet)
+Le tracé sera réalisé dans les jours qui suivent. Nous vous tiendrons informés de la date exacte d'ouverture (début juillet)
 
-### Train du muguet à l'Espace Gare le 1er Mai 2019
+### Réservations pour les groupes.
 
-Pour lancer la nouvelle saison à l'Espace Gare de Vigy, les Associations touristiques se mobilisent pour vous proposer une journée d'animation qui se déroulera le 1er Mai 2019. Nous vous proposons : 
-- un marché artisanal, 
-- des  ateliers artistiques pour adultes et enfants, 
-- les puces des couturières, 
-- un atelier de maquillage pour enfants... 
+Les réservations pour les groupes sont possibles dès maintenant.
+Si vous souhaitez passer la journée sur le site, nous pouvons vous proposer une animation de 1 h 30 puis vous pourrez parcourir le labyrinthe. 
+Nous contacter pour plus de renseignements.
 
-Nous travaillons à la mise en place d'un petit musée campagnard et vous proposerons l'exposition de quelques pièces qui seront exposées ultérieurement dans ce musée. 
 
-Un des points forts de la journée sera le voyage en train avec cueillette du muguet. 
+### Train de la Vallée de la Canner
 
-Il sera possible de se restaurer sur place. 
+Chaque dimanche, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. En Juin, les départs ont lieu à 14 h 30 et 15 h 30. 
+
+
+### Crêperie dans un wagon 
+Chaque week end, la Crêperie située à proximité de la gare vous accueillera pour passer un moment de convivialité 
 
 
 ### Pour nous joindre
