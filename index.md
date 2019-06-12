@@ -8,12 +8,11 @@ title: Accueil
 ### Saison 2019
 
 La saison 2019 du labyrinthe se prépare.
-Le tracé sera réalisé dans les jours qui suivent. Nous vous tiendrons informés de la date exacte d'ouverture (début juillet)
+Le tracé du labyrinthe vient d'être réalisé.L'ouverture est prévue pour le 7 Juillet. 
 
-### Réservations pour les groupes.
-
+### Accueil des groupes
 Les réservations pour les groupes sont possibles dès maintenant.
-Si vous souhaitez passer la journée sur le site, nous pouvons vous proposer une animation de 1 h 30 puis vous pourrez parcourir le labyrinthe. 
+Si vous souhaitez passer la journée complète sur le site, nous pouvons vous proposer une animation de 1 h 30 le matin puis vous pourrez parcourir le labyrinthe. 
 Nous contacter pour plus de renseignements.
 
 
