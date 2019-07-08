@@ -7,8 +7,8 @@ title: Accueil
 
 ### Saison 2019
 
-La saison 2019 du labyrinthe se prépare.
-Le tracé du labyrinthe vient d'être réalisé. L'ouverture est prévue pour le dimanche 7 Juillet à partir de 11 h. 
+La saison 2019 du labyrinthe a démarré ce dimanche 7 Juillet.
+Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche et jours de fête de 11H à 19 h.
 
 ### Accueil des groupes
 Les réservations pour les groupes sont possibles dès maintenant.
@@ -18,11 +18,11 @@ Nous contacter pour plus de renseignements.
 
 ### Train de la Vallée de la Canner
 
-Chaque dimanche, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. En Juin, les départs ont lieu à 14 h 30 et 15 h 30. 
+Chaque dimanche, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. En Juillet et Août, les départs ont lieu à 14 h 30, 15 h 30 et 16 h 30. 
 
 
 ### Crêperie dans un wagon 
-Chaque week end, la Crêperie située à proximité de la gare vous accueillera pour passer un moment de convivialité 
+En Juillet et Août, la Crêperie située à proximité de la gare vous accueillera chaque jour à partir de 16 h pour passer un moment de convivialité. 
 
 
 ### Pour nous joindre
