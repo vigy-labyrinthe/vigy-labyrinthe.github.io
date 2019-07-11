@@ -5,6 +5,9 @@ title: Accueil
 
 <h1> Bienvenue sur le site du labyrinthe de vigy ! </h1>
 
+### Le labyrinthe est fermé ce jeudi 11 Juillet (terrain impraticable)
+
+
 ### Saison 2019
 
 La saison 2019 du labyrinthe a démarré ce dimanche 7 Juillet.
