@@ -8,6 +8,7 @@ layout: page
 
 
 Au cours de la saison, l’association Vigy-Labyrinthe organise plusieurs soirées en nocturne. Il s’agit d’effectuer le parcours de nuit, à la lueur de la lampe de poche.
+Pour cette s aison 2019, les nocturnes auront lieu les 10 et 24 Août.
  
  <center>
 <img style="display:inline-block;" src="{{ site.baseurl }}public/img/nocturne.jpg">
