@@ -11,6 +11,9 @@ title: Accueil
 La saison 2019 du labyrinthe a démarré ce dimanche 7 Juillet.
 Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche et jours de fête de 11H à 19 h.
 
+### Animation du 20 Juillet à partir de 16 h 30
+A l'Espace Gare, inauguration du Musée de Georges, animation autour de la nature, battage du blé à l'ancienne, restauration, buvette, bal animé par un DJ.
+
 ### Accueil des groupes
 Les réservations pour les groupes sont possibles dès maintenant.
 Si vous souhaitez passer la journée complète sur le site, nous pouvons vous proposer une animation de 1 h 30 le matin puis vous pourrez parcourir le labyrinthe. 
