@@ -6,6 +6,11 @@ title: Accueil
 <h1> Bienvenue sur le site du labyrinthe de vigy ! </h1>
 
 
+### Le labyrinthe sera exceptionnellement fermé ce jeudi 25 Juillet 2019 pour cause de canicule. 
+
+
+
+
 ### Saison 2019
 
 La saison 2019 du labyrinthe a démarré ce dimanche 7 Juillet.
