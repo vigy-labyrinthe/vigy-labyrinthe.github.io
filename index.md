@@ -9,7 +9,7 @@ title: Accueil
 ### NOCTURNES 2019
 Les sorties nocturnes au labyrinthe auront lieu les 10 et 24 Août.
 <center>
-<img src="{{ site.baseurl }}public/img/affiche nocturne.jpg">
+<img src="{{ site.baseurl }}public/img/Affiche nocturne 19.pdf">
 </center>
 
 ### Train des contes
