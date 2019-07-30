@@ -8,21 +8,18 @@ title: Accueil
 
 ### NOCTURNES 2019
 Les sorties nocturnes au labyrinthe auront lieu les 10 et 24 Août.
+<center>
+<img src="{{ site.baseurl }}public/img/affiche nocturne.jpg">
+</center>
 
-
-
-
-
-
-
+### Train des contes
+L'association du train touristique propose un "train des contes" le samedi 17 Août. 
 
 ### Saison 2019
 
 La saison 2019 du labyrinthe a démarré ce dimanche 7 Juillet.
 Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche et jours de fête de 11H à 19 h.
 
-### Animation du 20 Juillet à partir de 16 h 30
-A l'Espace Gare, inauguration du Musée de Georges, animation autour de la nature, battage du blé à l'ancienne, restauration, buvette, bal animé par un DJ.
 
 ### Accueil des groupes
 Les réservations pour les groupes sont possibles dès maintenant.
