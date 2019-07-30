@@ -6,7 +6,8 @@ title: Accueil
 <h1> Bienvenue sur le site du labyrinthe de vigy ! </h1>
 
 
-### <h1> Le labyrinthe sera exceptionnellement fermé ce jeudi 25 Juillet 2019 pour cause de canicule. 
+### NOCTURNES 2019
+Les sorties nocturnes au labyrinthe auront lieu les 10 et 24 Août.
 
 
 
@@ -28,9 +29,6 @@ Les réservations pour les groupes sont possibles dès maintenant.
 Si vous souhaitez passer la journée complète sur le site, nous pouvons vous proposer une animation de 1 h 30 le matin puis vous pourrez parcourir le labyrinthe. 
 Nous contacter pour plus de renseignements.
 
-
-### NOCTURNES 2019
-Les sorties nocturnes au labyrinthe auront lieu les 10 et 24 Août.
 
 
 ### Train de la Vallée de la Canner
