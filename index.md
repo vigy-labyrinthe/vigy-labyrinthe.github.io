@@ -6,19 +6,14 @@ title: Accueil
 <h1> Bienvenue sur le site du labyrinthe de vigy ! </h1>
 
 
-### NOCTURNES 2019
-Les sorties nocturnes au labyrinthe auront lieu les 10 et 24 Août.
-<center>
-<img src="{{ site.baseurl }}public/img/Affiche nocturne 19.pdf">
-</center>
 
-### Train des contes
-L'association du train touristique propose un "train des contes" le samedi 17 Août. 
+### Fin de la saison 2019
 
-### Saison 2019
-
-La saison 2019 du labyrinthe a démarré ce dimanche 7 Juillet.
-Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche et jours de fête de 11H à 19 h.
+La saison 2019 du labyrinthe touche à sa fin.
+Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche de 11H à 19 hjusqu'au 1er septembre.
+Puis, nous vous accueillerons :
+- les samedis 7 et 14 septembre de 13 h à 19 h 
+- les dimanches 8 et 15 septembre de 11 h à 19 h.
 
 
 ### Accueil des groupes
@@ -30,11 +25,11 @@ Nous contacter pour plus de renseignements.
 
 ### Train de la Vallée de la Canner
 
-Chaque dimanche, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. En Juillet et Août, les départs ont lieu à 14 h 30, 15 h 30 et 16 h 30. 
+Chaque dimanche, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. En septembre, les départs ont lieu à 14 h 30 et 15 h 30. 
 
 
 ### Crêperie dans un wagon 
-En Juillet et Août, la Crêperie située à proximité de la gare vous accueillera chaque jour à partir de 16 h pour passer un moment de convivialité. 
+En Juillet et Août, la Crêperie située à proximité de la gare vous accueillera chaque jour à partir de 16 h pour passer un moment de convivialité. En septembre, elle sera ouverte chaque week-end.
 
 
 ### Pour nous joindre
