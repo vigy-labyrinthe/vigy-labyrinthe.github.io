@@ -13,7 +13,7 @@ La saison 2019 du labyrinthe touche à sa fin.
 Nous sommes encore ouvert les dimanches 1er et 8 septembre ainsi que le samedi 7 septembre. Le maïs sera ensuite récolté, plus tôt que de coutume suite à la météo capricieuse de cette année. 
 
 
-### on se retrouvera à l'Espace Gare pour notre dernière manifestation de la saison avec le train d'Halloween fin octobre.
+### On se retrouvera à l'Espace Gare pour notre dernière manifestation de la saison avec le train d'Halloween fin octobre.
 
 
 ### Train de la Vallée de la Canner
