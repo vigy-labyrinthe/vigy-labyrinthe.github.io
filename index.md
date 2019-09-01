@@ -10,22 +10,15 @@ title: Accueil
 ### Fin de la saison 2019
 
 La saison 2019 du labyrinthe touche à sa fin.
-Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche de 11H à 19 hjusqu'au 1er septembre.
-Puis, nous vous accueillerons :
-- les samedis 7 et 14 septembre de 13 h à 19 h 
-- les dimanches 8 et 15 septembre de 11 h à 19 h.
+Nous sommes encore ouvert les dimanches 1er et 8 septembre ainsi que le samedi 7 septembre. Le maïs sera ensuite récolté, plus tôt que de coutume suite à la météo capricieuse de cette année. 
 
 
-### Accueil des groupes
-Les réservations pour les groupes sont possibles dès maintenant.
-Si vous souhaitez passer la journée complète sur le site, nous pouvons vous proposer une animation de 1 h 30 le matin puis vous pourrez parcourir le labyrinthe. 
-Nous contacter pour plus de renseignements.
-
+### on se retrouvera à l'Espace Gare pour notre dernière manifestation de la saison avec le train d'Halloween fin octobre.
 
 
 ### Train de la Vallée de la Canner
 
-Chaque dimanche, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. En septembre, les départs ont lieu à 14 h 30 et 15 h 30. 
+Chaque dimanche de septembre, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. Les départs ont lieu à 14 h 30 et 15 h 30. 
 
 
 ### Crêperie dans un wagon 
