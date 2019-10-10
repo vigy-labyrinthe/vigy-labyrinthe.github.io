@@ -10,9 +10,10 @@ title: Accueil
 ### Fin de la saison 2019
 
 La saison 2019 du labyrinthe est terminée. Merci à nos nombreux visiteurs, à nos fidèles visiteurs qui nous suivent chaque année pour de nouvelles aventures. 
+Pour terminer cette saison, les associations touristiques de Vigy vous proposent : 
 
 
-### Train d'Halloween à l'Espace Gare de Vigy : 1er, 2 et 3 novembre de 13 h à 17 h. 
+### Train d'Halloween à l'Espace Gare : 1er, 2 et 3 novembre de 13 h à 17 h. 
 
 Voyage en train-rébus
 Contes dans le train
@@ -21,7 +22,9 @@ Maquillage
 Jeux tout public sous abri
   ### TARIF UNIQUE : 5 €
 
+
 ### ESCAPE GAME DANS UN WAGON (sur réservation) : 3,50 €
+
 
 Crêpes et boissons
 
