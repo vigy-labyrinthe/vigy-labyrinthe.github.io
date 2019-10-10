@@ -12,20 +12,24 @@ title: Accueil
 La saison 2019 du labyrinthe est terminée. Merci à nos nombreux visiteurs, à nos fidèles visiteurs qui nous suivent chaque année pour de nouvelles aventures. 
 
 
-### On se retrouvera à l'Espace Gare pour notre dernière manifestation commune avec nos partenaires lors de l'organisation du train d'Halloween. Une date à noter sur vos calendriers : 1er, 2 et 3 novembre de 13 h à 17 h. 
+### Train d'Halloween à l'Espace Gare de Vigy : 1er, 2 et 3 novembre de 13 h à 17 h. 
 
+Voyage en train-rébus
+Contes dans le train
+Soupe de la sorcière
+Maquillage
+Jeux tout public sous abri
+  ### TARIF UNIQUE : 5 €
 
-### Train de la Vallée de la Canner
+### ESCAPE GAME DANS UN WAGON (sur réservation) : 3,50 €
 
-Chaque dimanche jusqu'au 6 octobre, le train de la Vallée de la Canner vous propose un voyage en autorail Picasso. Les départs ont lieu à 14 h 30 et 15 h 30. 
+Crêpes et boissons
 
-
-### Crêperie dans un wagon 
-En Juillet et Août, la Crêperie située à proximité de la gare vous accueillera chaque jour à partir de 16 h pour passer un moment de convivialité. Jusqu'au 6 octobre, elle sera ouverte chaque week-end.
 
 
 ### Pour nous joindre
-* Tél. 07 83 72 20 30
+* Tél. 06 84 84 84 62
+ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
 <center>
