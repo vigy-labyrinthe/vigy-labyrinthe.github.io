@@ -15,11 +15,11 @@ Pour terminer cette saison, les associations touristiques de Vigy vous proposent
 
 ### Train d'Halloween à l'Espace Gare : 1er, 2 et 3 novembre de 13 h à 17 h. 
 
-Voyage en train-rébus
-Contes dans le train
-Soupe de la sorcière
-Maquillage
-Jeux tout public sous abri
+Voyage en train-rébus - 
+Contes dans le train - 
+Soupe de la sorcière - 
+Maquillage - 
+Jeux tout public sous abri -
   ### TARIF UNIQUE : 5 €
 
 
