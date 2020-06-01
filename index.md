@@ -7,27 +7,21 @@ title: Accueil
 
 
 
-### Fin de la saison 2019
+### Saison 2020
 
-La saison 2019 du labyrinthe est terminée. Merci à nos nombreux visiteurs, à nos fidèles visiteurs qui nous suivent chaque année pour de nouvelles aventures. 
-Pour terminer cette saison, les associations touristiques de Vigy vous proposent : 
+La saison 2020 du labyrinthe se prépare activement. 
+Le tracé du labyrinthe vient d'être fait, les énigmes sont en cours de réflexion.
+Actuellement, nous ne connaissons pas la date exacte d'ouverture, nous espérons qu'elle se fera début juillet. Nous sommes tributaires de la situation actuelle et de la météo pour la taille du maïs. 
+Nous ne manquerons pas de vous tenir informés.
 
-
-### Train d'Halloween à l'Espace Gare : 1er, 2 et 3 novembre de 13 h à 17 h. 
-
-Voyage en train-rébus - 
-Contes dans le train - 
-Soupe de la sorcière - 
-Maquillage - 
-Jeux tout public sous abri -
-  ### TARIF UNIQUE : 5 €
+### Cette année le tracé porte sur les activités proposées à l'Espace Gare :
+- Train touristique
+- Vélorail de la Canner
 
 
-### ESCAPE GAME DANS UN WAGON (sur réservation) : 3,50 €
+La crêperie est ouverte chaque samedi et dimanche (emporté)
 
-
-Crêpes et boissons
-
+A très bientôt 
 
 
 ### Pour nous joindre
