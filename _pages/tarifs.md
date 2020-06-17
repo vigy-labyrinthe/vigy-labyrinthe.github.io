@@ -11,22 +11,22 @@ layout: page
 * dimanches et fêtes :
   * de 11 h à 19 h
 
-## TARIFS 2019
+## TARIFS 2020
 * Individuel :
-  * Adulte : 3 €
-  * Enfant : 2 € pour les moins de 12 ans
+  * Adulte : 3,50 €
+  * Enfant : 2,50 € pour les moins de 12 ans
  
 * Groupe (plus de 20 personnes) :
-  * Adulte : 2,50 €
-  * Enfant : 1,50 € pour les moins de 12 ans
+  * Adulte : 3,00 €
+  * Enfant : 2,00 € pour les moins de 12 ans
  
 * Pack Labyrinthe-Train :
   * Adulte : 6 €
   * Enfant : 4 € pour les moins de 12 ans
  
 * NOCTURNE :
-  * Adulte : 4 €
-  * Enfant : 3 € pour les moins de 12 ans
+  * Adulte : 5 €
+  * Enfant : 4 € pour les moins de 12 ans
  
 Nos amis les animaux ne sont pas admis à l'intérieur du labyrinthe. Merci.
 
