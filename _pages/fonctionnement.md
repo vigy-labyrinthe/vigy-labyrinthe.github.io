@@ -6,8 +6,7 @@ layout: page
 ## OUVERTURE 
  
 ### Le labyrinthe est ouvert :
-* tous les jours du 7 juillet au 31 Août 2019
-* les trois premiers week-end de septembre (dernier jour le 15 septembre)
+* tous les jours du 7 juillet au 31 Août 2020
 * en semaine, sur réservation,  pour les groupes de plus de 20 personnes
  
 <center>
