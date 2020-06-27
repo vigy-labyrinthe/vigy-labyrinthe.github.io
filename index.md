@@ -8,11 +8,12 @@ title: Accueil
 
 
 ### Saison 2020
+ 
+L'ouverture de la saison labyrinthe aura lieu le samedi 4 Juillet à partir de 13 h.
 
-La saison 2020 du labyrinthe se prépare activement. 
-Le tracé du labyrinthe vient d'être fait, les énigmes sont en cours de réflexion.
-Actuellement, nous ne connaissons pas la date exacte d'ouverture, nous espérons qu'elle se fera début juillet. Nous sommes tributaires de la situation actuelle et de la météo pour la taille du maïs. 
-Nous ne manquerons pas de vous tenir informés.
+
+
+
 
 ### Cette année le tracé porte sur les activités proposées à l'Espace Gare :
 - Train touristique
