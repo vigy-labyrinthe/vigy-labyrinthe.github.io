@@ -14,11 +14,6 @@ Le labyrinthe de Vigy ainsi que le VéloRail de la Canner ouvriront leurs portes
 
 
 
-### Cette année le tracé porte sur les activités proposées à l'Espace Gare :
-- Train touristique
-- Vélorail de la Canner
-
-
 La crêperie est ouverte chaque samedi et dimanche (emporté)
 
 A très bientôt 
