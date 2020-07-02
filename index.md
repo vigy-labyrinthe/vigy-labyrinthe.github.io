@@ -9,7 +9,7 @@ title: Accueil
 
 ### Saison 2020
  
-<h1> Le labyrinthe de Vigy ainsi que le VéloRail de la Canner ouvriront leurs portes ce samedi 4 Juillet 2020
+Le labyrinthe de Vigy ainsi que le VéloRail de la Canner ouvriront leurs portes ce samedi 4 Juillet 2020
 
 
 
