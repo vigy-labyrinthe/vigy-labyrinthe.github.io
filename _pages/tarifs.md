@@ -20,13 +20,12 @@ layout: page
   * Adulte : 3,00 €
   * Enfant : 2,00 € pour les moins de 12 ans
  
-* Pack Labyrinthe-Train :
-  * Adulte : 6 €
-  * Enfant : 4 € pour les moins de 12 ans
+* Vélorail : 25 € (Vélorail de 5 places)
+
+* Pack Labyrinthe-Vélorail :
+  * Vélorail : 23 € + laby : adultes à 3 € par personne et 2 € par personne pour les enfants.
+  
  
-* NOCTURNE :
-  * Adulte : 5 €
-  * Enfant : 4 € pour les moins de 12 ans
  
 Nos amis les animaux ne sont pas admis à l'intérieur du labyrinthe. Merci.
 
