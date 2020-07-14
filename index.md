@@ -20,6 +20,8 @@ La crêperie est ouverte chaque samedi et dimanche (emporté) et chaque jour à 
 
 A très bientôt 
 
+### Moyen de paiement : espèces ou chèque
+
 
 ### Pour nous joindre
 * Tél. 06 84 84 84 62
