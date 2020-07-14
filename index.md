@@ -3,18 +3,20 @@ layout: default
 title: Accueil
 ---
 
-<h1> Bienvenue sur le site du labyrinthe de vigy ! </h1>
+<h1> Bienvenue sur le site du labyrinthe de Vigy ! </h1>
 
 
 
 ### Saison 2020
  
-Le labyrinthe de Vigy ainsi que le VéloRail de la Canner ouvriront leurs portes ce samedi 4 Juillet 2020
+Le labyrinthe de Vigy ainsi que le VéloRail de la Canner sont ouverts. 
+Le labyrinthe ouvre chaque jour de 13 h à 19 h et le dimanche et jours fériés de 11 h à 19 H jusqu'au 31 Août. 
 
+Pour le vélorail, 5 départs chaque jour : 10h30, 12h, 14h, 15H30 et 17 H. (sur réservation)
 
+Possibilité de prendre un pack regroupant labyrinthe et vélorail.
 
-
-La crêperie est ouverte chaque samedi et dimanche (emporté)
+La crêperie est ouverte chaque samedi et dimanche (emporté) et chaque jour à partir de 16h30. 
 
 A très bientôt 
 
