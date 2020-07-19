@@ -28,6 +28,8 @@ A très bientôt
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
+Site mis à jour le 19 juillet 2020
+
 <center>
 <img src="{{ site.baseurl }}public/img/oie.jpg">
 </center>
