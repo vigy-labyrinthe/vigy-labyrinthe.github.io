@@ -9,14 +9,15 @@ title: Accueil
 
 ### Saison 2020
  
-Le labyrinthe de Vigy ainsi que le VéloRail de la Canner sont ouverts. 
-Le labyrinthe ouvre chaque jour de 13 h à 19 h et le dimanche et jours fériés de 11 h à 19 H jusqu'au 31 Août. 
 
-Pour le vélorail, 5 départs chaque jour : 10h30, 12h, 14h, 15H30 et 17 H. (sur réservation)
+Le labyrinthe de Vigy va bientôt fermer ses portes.
 
-Possibilité de prendre un pack regroupant labyrinthe et vélorail.
+Le maïs prend ses couleurs d’automne, les épis s’arrondissent, il ne reste que quelques jours pour parcourir les allées du labyrinthe. 
 
-La crêperie est ouverte chaque samedi et dimanche (emporté) et chaque jour à partir de 16h30. 
+
+Le labyrinthe sera ouvert tous les jours jusqu’au 31 Août puis les deux premiers Week-end de septembre. Il sera encore possible de faire du Vélorail jusqu’au 31 Août puis chaque mercredi après-midi ainsi que les samedis et dimanches du mois de septembre. (uniquement sur réservation par téléphone)
+
+
 
 A très bientôt 
 
