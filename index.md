@@ -7,21 +7,23 @@ title: Accueil
 
 
 
-### Saison 2020
+### Saison 2021
  
 
-Le labyrinthe de Vigy va bientôt fermer ses portes.
+Le labyrinthe de Vigy prépare sa nouvelle saison.
 
-Le maïs prend ses couleurs d’automne, les épis s’arrondissent, il ne reste que quelques jours pour parcourir les allées du labyrinthe. 
+Le tracé du nouveau parcours est déjà implanté. Nous attendons que le maïs pousse pour pouvoir finaliser le tracé et effectuer l'arrachage du maïs qui a poussé à l'emplacemeznt des allées. 
 
 
-Le labyrinthe sera ouvert tous les jours jusqu’au 31 Août puis les deux premiers Week-end de septembre. Il sera encore possible de faire du Vélorail jusqu’au 31 Août puis chaque mercredi après-midi ainsi que les samedis et dimanches du mois de septembre. (uniquement sur réservation par téléphone)
+Impossible pour l'instant de prévoir une date d'ouverture, elle est fonction de la taille du maïs. Pour qu'il grandisse vite, il lui faut de l'eau et de la chaleur. Nous vous tiendrons informés régulièrement.
+
+Le vélorail débutera sa saison le 12 Juin (sur réservation)
 
 
 
 A très bientôt 
 
-### Moyen de paiement : espèces ou chèque
+### Moyen de paiement : espèces, chèques ou carte bancaire. 
 
 
 ### Pour nous joindre
@@ -29,7 +31,7 @@ A très bientôt
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 19 juillet 2020
+Site mis à jour le 1er Juin 2021
 
 <center>
 <img src="{{ site.baseurl }}public/img/oie.jpg">
