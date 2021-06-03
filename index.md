@@ -12,7 +12,7 @@ title: Accueil
 
 Le labyrinthe de Vigy prépare sa nouvelle saison.
 
-Le tracé du nouveau parcours est déjà implanté. Nous attendons que le maïs pousse pour pouvoir finaliser le tracé et effectuer l'arrachage du maïs qui a poussé à l'emplacemeznt des allées. 
+Le tracé du nouveau parcours est déjà implanté. Nous attendons que le maïs pousse pour pouvoir finaliser le tracé et effectuer l'arrachage du maïs qui a poussé à l'emplacement des allées. 
 
 
 Impossible pour l'instant de prévoir une date d'ouverture, elle est fonction de la taille du maïs. Pour qu'il grandisse vite, il lui faut de l'eau et de la chaleur. Nous vous tiendrons informés régulièrement.
