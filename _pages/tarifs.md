@@ -13,11 +13,11 @@ layout: page
 
 ## TARIFS 2021
 
-* Individuel :
+* Individuels :
   * Adulte : 3,50 €
   * Enfant : 2,50 € pour les moins de 12 ans
  
-* Groupe (plus de 20 personnes) :
+* Groupes (plus de 20 personnes) :
   * Adulte : 3,00 €
   * Enfant : 2,00 € pour les moins de 12 ans
  
