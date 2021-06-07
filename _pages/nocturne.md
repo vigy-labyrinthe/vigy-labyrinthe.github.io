@@ -1,5 +1,4 @@
 ---
-title: Parcours nocturne
 permalink: nocturne.html
 layout: page
 ---
