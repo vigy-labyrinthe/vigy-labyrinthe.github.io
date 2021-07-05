@@ -6,8 +6,8 @@ layout: page
 ## OUVERTURE 
  
 ### Le labyrinthe est ouvert :
-* tous les jours du ? juillet au 31 Août 2021
-* sur réservation pour les groupes de plus de 20 personnes
+* tous les jours du 10 juillet au 31 Août 2021 puis les deux premiers week-end de septembre. 
+* sur réservation pour les groupes de plus de 20 personnes (du 10 Juillet au 15 septembre 2021)
  
 <center>
 <img src="{{ site.baseurl }}public/img/ecole.jpg">
