@@ -10,18 +10,16 @@ title: Accueil
 ### Saison 2021
  
 
-Le labyrinthe de Vigy prépare sa nouvelle saison.
+Le labyrinthe de Vigy poursuit la préparation de sa nouvelle saison.
 
-Le tracé du nouveau parcours est déjà implanté. Nous attendons que le maïs pousse pour pouvoir finaliser le tracé et effectuer l'arrachage du maïs qui a poussé à l'emplacement des allées. 
-
-
-Impossible pour l'instant de prévoir une date d'ouverture, elle est fonction de la taille du maïs. Pour qu'il grandisse vite, il lui faut de l'eau et de la chaleur. Nous vous tiendrons informés régulièrement.
-
-Le vélorail débutera sa saison le 12 Juin (sur réservation)
+Le tracé du nouveau parcours est terminé, les 20 panneaux sont en place. Le labyrinthe va pouvoir débuter sa nouvelle saison. 
+L'ouverture est fixée au samedi 10 Juillet à 13 h. 
 
 
+Le vélorail a déjà débuté sa saison (sur réservation)
 
-A très bientôt 
+
+A très bientôt le plaisir de vous accueillir pour un nouveau parcours.
 
 ### Moyen de paiement : espèces, chèques ou carte bancaire. 
 
@@ -31,7 +29,7 @@ A très bientôt
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 1er Juin 2021
+Site mis à jour le 5 juillet 2021
 
 <center>
 <img src="{{ site.baseurl }}public/img/oie.jpg">
