@@ -10,13 +10,15 @@ title: Accueil
 ### Saison 2021
  
 
-Le labyrinthe de Vigy poursuit la préparation de sa nouvelle saison.
+Le labyrinthe a ouvert ses portes depuis le 10 Juillet.
 
-Le tracé du nouveau parcours est terminé, les 20 panneaux sont en place. Le labyrinthe va pouvoir débuter sa nouvelle saison. 
-L'ouverture est fixée au samedi 10 Juillet à 13 h. 
+Déjà des centaines de participants ont parcouru les allées du tracé du vingtième anniversaire et décripté les énigmes proposées. Avec plaisir, nous retrouvons chaque année ceux qui nous suivent depuis longtemps. Un des thèmes proposés leur permet de se remémorer, parmi les 20 tracés, ceux qu'ils ont parcouru.
+
+Suite à la météo perturbée de cette saison, merci de vous renseigner si le labyrinthe est bien ouvert. 
+Merci de vous munir de votre masque, il est fortement conseillé à l'intérieur du labyrinthe.  
 
 
-Le vélorail a déjà débuté sa saison (sur réservation)
+Le vélorail fonctionne également (sur réservation)
 
 
 A très bientôt le plaisir de vous accueillir pour un nouveau parcours.
@@ -29,7 +31,8 @@ A très bientôt le plaisir de vous accueillir pour un nouveau parcours.
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 5 juillet 2021
+Site mis à jour le 26 juillet 2021
+
 
 <center>
 <img src="{{ site.baseurl }}public/img/oie.jpg">
