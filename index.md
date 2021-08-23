@@ -9,19 +9,18 @@ title: Accueil
 
 ### Saison 2021
  
-
-Le labyrinthe a ouvert ses portes depuis le 10 Juillet.
-
-Déjà des centaines de participants ont parcouru les allées du tracé du vingtième anniversaire et décripté les énigmes proposées. Avec plaisir, nous retrouvons chaque année ceux qui nous suivent depuis longtemps. Un des thèmes proposés leur permet de se remémorer, parmi les 20 tracés, ceux qu'ils ont parcouru.
-
-Suite à la météo perturbée de cette saison, merci de vous renseigner si le labyrinthe est bien ouvert. 
-Merci de vous munir de votre masque, il est fortement conseillé à l'intérieur du labyrinthe.  
-
+Il est très haut.
+Il est encore bien vert.
+Bien des explorateurs ont parcouru ses allées à la recherche de panneaux avec des énigmes.
+Il en est à sa vingtième édition.
+Il vous accueille encore chaque jour de 13 h à 19 h.
+Comptez deux heures pour le parcours complet.
+Le labyrinthe végétal de Vigy terminera sa saison ce dimanche 29 Août à 19 h.
+### dimanche 29 Août 2021 à 19 h.
 
 Le vélorail fonctionne également (sur réservation)
 
-
-A très bientôt le plaisir de vous accueillir pour un nouveau parcours.
+A très bientôt le plaisir de vous accueillir encore quelques jours.
 
 ### Moyen de paiement : espèces, chèques ou carte bancaire. 
 
@@ -31,7 +30,7 @@ A très bientôt le plaisir de vous accueillir pour un nouveau parcours.
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 26 juillet 2021
+Site mis à jour le 23 Août 2021
 
 
 <center>
