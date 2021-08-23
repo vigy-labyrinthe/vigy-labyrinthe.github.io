@@ -16,7 +16,6 @@ Il en est à sa vingtième édition.
 Il vous accueille encore chaque jour de 13 h à 19 h.
 Comptez deux heures pour le parcours complet.
 Le labyrinthe végétal de Vigy terminera sa saison ce dimanche 29 Août à 19 h.
-### dimanche 29 Août 2021 à 19 h.
 
 Le vélorail fonctionne également (sur réservation)
 
