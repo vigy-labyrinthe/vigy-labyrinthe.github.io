@@ -6,7 +6,11 @@ layout: page
 ## Parcours nocturne
 
 
-Au cours de la saison 2021, l’association Vigy-Labyrinthe n'organisera pas de nocturnes comme les années précédentes. Il est difficile de respecter les mesures barrières, tous les participants étant regroupés sur un laps de temps très court. Des soirées privées peuvent être organisées pour les groupes sur réservation (à partir de 40 personnes avec un maximum de 60 personnes). Nous contacter.
+Au cours de la saison 2022, l’association Vigy-Labyrinthe n'organisera pas de nocturnes. 
+
+Des soirées privées peuvent être organisées pour les groupes sur réservation (à partir de 40 personnes ). 
+
+Des modifications pourraient être envisagées en cas de canicule. N'hésitez pas à consulter notre site ou à nous contacter.
  
  <center>
 <img style="display:inline-block;" src="{{ site.baseurl }}public/img/nocturne.jpg">
