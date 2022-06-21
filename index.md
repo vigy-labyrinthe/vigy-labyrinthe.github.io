@@ -7,19 +7,24 @@ title: Accueil
 
 
 
-### Saison 2021
- 
-Il est très haut.
-Il est encore bien vert.
-Bien des explorateurs ont parcouru ses allées à la recherche de panneaux avec des énigmes.
-Il en est à sa vingtième édition.
-Il vous accueille encore chaque jour de 13 h à 19 h.
-Comptez deux heures pour le parcours complet.
-Le labyrinthe végétal de Vigy terminera sa saison ce dimanche 29 Août à 19 h.
+### Saison 2022
 
-Le vélorail fonctionne également (sur réservation)
+Depuis plusieurs semaines, les bénévoles se mobilisent pour vous proposer de nouvelles aventures dans le labyrinthe végétal de Vigy. Le nouveau tracé est réalisé, les panneaux sont en place : dernières mises au point des jeux et énigmes qui vont jalonner votre parcours pour cette nouvelle saison. 
 
-A très bientôt le plaisir de vous accueillir encore quelques jours.
+Ce sont les écoliers qui inaugureront cette nouvelle saison dès le 1er Juillet. 
+
+Cette première semaine, nous seront ouverts le 1er, 2 et 3 juillet, 6 juillet puis tous les jours à compter du 8 juillet jusqu'au 31 Août 2022. 
+
+Sur réservation, la première semaine est accessible aux scolaires. 
+
+Nos horaires : tous les jours de 13 h à 19 h, les dimanches et jours fériés de 11 h à 19 h. 
+
+En cas de canicule, merci de consulter nos horaires qui pourront être modifiés.
+
+Le vélorail fonctionne également (sur réservation). Nous vous proposons une formule comprenant les deux activités.
+
+A très bientôt le plaisir de vous accueillir, notre mascotte vous attend.
+
 
 ### Moyen de paiement : espèces, chèques ou carte bancaire. 
 
@@ -29,7 +34,7 @@ A très bientôt le plaisir de vous accueillir encore quelques jours.
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 23 Août 2021
+Site mis à jour le 21 Juin 2022
 
 
 <center>
