@@ -18,7 +18,7 @@ Sur réservation, les groupes peuvent être accueillis le matin.
 ### Suite à la canicule qui s'installe, jusqu'au 25 Juillet, nous prolongeons nos horaires de fonctionnement jusque 20 h.Derniers départs à 18 h.
 
 ### NOCTURNES : 
-Nous vous proposons deux soirées en nocturnes au mois d'Août. Des informations vous seront fournies prochainemeznt sur lez déroulement de ces soirées.
+Nous vous proposons deux soirées en nocturnes au mois d'Août. Des informations vous seront fournies prochainemeznt sur le déroulement de ces soirées.
 
 ### Journée de soutien à LEUCEMIE ESPOIR 57
 Nous vous proposons, le dimanche 7 Août, une journée de soutien à l'Association LEUCÉMIE ESPOIR 57. 
