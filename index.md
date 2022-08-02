@@ -22,6 +22,7 @@ Sur place, divers stands d'animation, démonstration et vente de jeux collectifs
 Petite restauration, crêpes, glaces et boissons. 
 ### UNE PARTIE DES RECETTES SERONT REVERSÉES À LEUCÉMIE ESPOIR 57 POUR FINANCER DU MATÉRIEL POUR LE SERVICE HÉMATOLOGIE DU CHR DE MERCY. 
 
+
 ### NOCTURNES : 
 Les associations de l'Espace Gare vous proposent deux soirées en nocturnes les 13 et 14 août. L'accès à ces deux soirées se fera uniquement sur RÉSERVATION. 
 Plusieurs choix vous sont proposés : 
@@ -29,7 +30,7 @@ Plusieurs choix vous sont proposés :
 ### LABYRINTHE + VELORAIL : (3,50€/pers + de 12 ans et 2,50€/enf moins de 12 ans) + VÉLORAIL (5 personnes) : 30 €/vélorail
 ### VÉLORAIL + visite du dépôt de matériels ferroviaires : 35 €/vélorail(5 personnes)
 
-Les entrées au labyrinthe sont en nombre limité pour ces soirées et se font uniquement sur réservation.
+Les entrées au labyrinthe sont en NOMBRE LIMITÉ pour ces soirées et se font UNIQUEMENT SUR RÉSERVATION.
 - labyrinthe : 06 84 84 84 62 ou 07 83 72 20 30
 - vélorail : 06 04 06 03 45 ou en ligne sur alemftrain.fr
 
