@@ -25,10 +25,17 @@ Petite restauration, crêpes, glaces et boissons.
 ### NOCTURNES : 
 Les associations de l'Espace Gare vous proposent deux soirées en nocturnes les 13 et 14 août. L'accès à ces deux soirées se fera uniquement sur RÉSERVARTION. 
 Plusieurs choix vous sont proposés : 
-- labyrinthe : départ à partir de 20 h
-- vélorail + labyrinthe
-- vélorail + visite du dépôt de matériels ferroviaires.
-Des informations complémentaires vous seront communiquées prochainement.
+### LABYRINTHE SEUL : départ à partir de 20 h, Plus de 12 ans : 5 €/pers, moins de 12 ans : 4 €/pers)
+### LABYRINTHE + VELORAIL : (3,50€/pers + de 12 ans et 2,50€/enf moins de 12 ans) + VÉLORAIL (5 personnes) : 30 €/vélorail
+### VÉLORAIL + visite du dépôt de matériels ferroviaires : 35 €/vélorail(5 personnes)
+
+Les entrées au labyrinthe sont en nombre limité pour ces soirées et se font uniquement sur réservation.
+- labyrinthe : 06 84 84 84 62 ou 07 83 72 20 30
+- vélorail : 06 04 06 03 45 ou en ligne sur alemftrain.fr
+
+
+Sur place : boissons, glaces et crêpes
+
 
 ### VÉLORAIL : (sur réservation)
 Le vélorail fonctionne également tous les jours. 
@@ -46,7 +53,7 @@ A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy.
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 27 Juillet 2022
+Site mis à jour le 2 Août 2022
 
 
 <center>
