@@ -16,12 +16,6 @@ Sur réservation, les groupes peuvent être accueillis le matin.
 
 ### Suite à la canicule qui s'installe, nous prolongeons nos horaires de fonctionnement jusque 20 h.Derniers départs à 18 h.
 
-### Journée de soutien à LEUCEMIE ESPOIR 57
-Nous vous proposons, le dimanche 7 Août, une journée de soutien à l'Association LEUCÉMIE ESPOIR 57. 
-Sur place, divers stands d'animation, démonstration et vente de jeux collectifs, démonstration et initiation aux danses tahitiennes, grands jeux collectifs en bois, le monde des abeilles : présentation et vente de produits, exposition de matériels ferroviaires anciens, aventure dans le labyrinthe, parcours en vélorail.
-Petite restauration, crêpes, glaces et boissons. 
-### UNE PARTIE DES RECETTES SERONT REVERSÉES À LEUCÉMIE ESPOIR 57 POUR FINANCER DU MATÉRIEL POUR LE SERVICE HÉMATOLOGIE DU CHR DE MERCY. 
-
 
 ### NOCTURNES : 
 Les associations de l'Espace Gare vous proposent deux soirées en nocturnes les 13 et 14 août. L'accès à ces deux soirées se fera uniquement sur RÉSERVATION. 
@@ -55,7 +49,7 @@ A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy.
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 2 Août 2022
+Site mis à jour le 8 Août 2022
 
 
 <center>
