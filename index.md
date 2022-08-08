@@ -12,9 +12,9 @@ title: Accueil
 Depuis le 1er Juillet, le labyrinthe accueille les visiteurs.
 
 Nous sommes ouverts tous les jours de 13 h à 19 h et le dimanche et jours fériés de 11 h à 19 h. 
-Sur réservation, les groupes peuvent être accueillis le matin. 
+Sur réservation, les groupes ( plus de 20 personnes)peuvent être accueillis le matin. 
 
-### Suite à la canicule qui s'installe, nous prolongeons nos horaires de fonctionnement jusque 20 h.Derniers départs à 18 h.
+### Suite à la canicule qui s'installe, nous prolongeons nos horaires de fonctionnement jusque 20 h. Derniers départs à 18 h.
 
 
 ### NOCTURNES : 
