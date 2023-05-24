@@ -20,8 +20,6 @@ Le maïs vient juste de sortir de terre. Nous le laissons grandir avant d'aller 
 En juin, le vélorail fonctionne le week-end
 
 
-A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy. 
-
 ### NOCTURNES : 
 Les associations de l'Espace Gare vous proposent deux soirées en nocturnes. Les dates vous seront communiquées ultérieurement.
 
