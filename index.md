@@ -9,18 +9,17 @@ title: Accueil
 
 ### Saison 2023
 
-La saison 2023 est prête : il reste au maïs à prendre quelques centimètres pour que les premiers visiteurs puissent parcourir les allées.
+La saison 2023 est prête,les premiers visiteurs peuvent parcourir les allées.
 
 
-### L'ouverture est prévue le samedi 8 juillet : c'est la taille du maïs et la météo qui sont déterminants.
+### Le labyrinthe est ouvert tous les jours de 13h à 19h en semaine et de 11h à 19h le dimanche.
 
 ### VÉLORAIL : (sur réservation)
 En juillet et août, le vélorail fonctionne tous les jours sur réservation
 
 
 ### NOCTURNES : 
-Les associations de l'Espace Gare vous proposent deux soirées en nocturnes au mois d'Août. Les dates vous seront communiquées ultérieurement.
-
+Les associations de l'Espace Gare vous proposent deux soirées en nocturnes au mois d'Août : ### les samedis 5 et 19 Août 2023. 
 Plusieurs choix vous seront proposés : 
 ### LABYRINTHE SEUL : départ à partir de 20 h, (Plus de 12 ans : 5 €/pers, moins de 12 ans : 4 €/pers)
 ### LABYRINTHE + VELORAIL : (3,50€/pers + de 12 ans et 2,50€/enf moins de 12 ans) + VÉLORAIL (5 personnes) : 30 €/vélorail
@@ -30,10 +29,8 @@ Les entrées au labyrinthe sont en NOMBRE LIMITÉ pour ces soirées et se font U
 - vélorail : 06 04 06 03 45 ou en ligne sur www.alemftrain.fr
 Sur place : boissons, glaces et crêpes
 
-### 
-A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy. 
-
-
+### A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy.
+ 
 ### Moyen de paiement : espèces, chèques ou carte bancaire. 
 
 
@@ -42,7 +39,7 @@ A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy.
 ou 07 83 72 20 30
 * vigy-labyrinthe@orange.fr
 
-Site mis à jour le 30 Juin 2023
+Site mis à jour le 12 Juillet 2023
 
 
 <center>
