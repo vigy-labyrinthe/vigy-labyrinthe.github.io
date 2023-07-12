@@ -19,7 +19,7 @@ En juillet et août, le vélorail fonctionne tous les jours sur réservation
 
 
 ### NOCTURNES : 
-Les associations de l'Espace Gare vous proposent deux soirées en nocturnes au mois d'Août : ### les samedis 5 et 19 Août 2023. 
+Les associations de l'Espace Gare vous proposent deux soirées en nocturnes au mois d'Août : les samedis 5 et 19 Août 2023. 
 Plusieurs choix vous seront proposés : 
 ### LABYRINTHE SEUL : départ à partir de 20 h, (Plus de 12 ans : 5 €/pers, moins de 12 ans : 4 €/pers)
 ### LABYRINTHE + VELORAIL : (3,50€/pers + de 12 ans et 2,50€/enf moins de 12 ans) + VÉLORAIL (5 personnes) : 30 €/vélorail
