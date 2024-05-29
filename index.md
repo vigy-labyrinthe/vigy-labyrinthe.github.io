@@ -5,30 +5,28 @@ title: Accueil
 
 <h1> Bienvenue sur le site du labyrinthe de Vigy ! </h1>
 
-### Saison 2023
+### Saison 2024
 
-La saison 2023 est terminée.
+La saison 2024 se prépare.
+Dès que la météo sera clémente, nous pourrons débuter le tracé. 
 
-
-### Le labyrinthe vous donne rendez-vous en juillet 2024 pour de nouvelles aventures . 
-
-### VÉLORAIL : (sur réservation)
-Il fonctionne les week-end de septembre.
-
+### Quelques modifications pour cette nouvelle saison : 
+- Le labyrinthe et le vélorail font partie de l'Espace Gare de Vigy.
+- Selon la météo, le labyrinthe ouvrira ses portes début juillet. La date vous sera confirmée dès que possible.
+- le labyrinthe sera ouvert chaque jour de 10 h à 19 h 30.
+- les demandes d'informations  et les réservations se font en priorité par mail sur contact@alemftrain.fr 
 
 ### A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy.
 
-
- 
 ### Moyen de paiement : espèces, chèques ou carte bancaire. 
 
 
 ### Pour nous joindre
-* Tél. 06 84 84 84 62
+* Tél. 06 04 06 03 45
 ou 07 83 72 20 30
-* vigy-labyrinthe@orange.fr
+* contact@alemftrain.fr
 
-Site mis à jour le 2 Août 2023
+Site mis à jour le 30 mai 2024
 
 
 <center>
