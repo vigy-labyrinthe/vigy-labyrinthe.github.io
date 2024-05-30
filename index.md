@@ -14,6 +14,8 @@ Dès que la météo sera clémente, nous pourrons débuter le tracé.
 - Le labyrinthe et le vélorail font partie de l'Espace Gare de Vigy.
 - Selon la météo, le labyrinthe ouvrira ses portes début juillet. La date vous sera confirmée dès que possible.
 - le labyrinthe sera ouvert chaque jour de 10 h à 19 h 30.
+- L'entrée est à 3 € pour les moins de 12 ans et à 4 € pour les plus de 12 ans et adultes.
+- pour les groupes (plus de 20 personnes), nous consulter.
 - les demandes d'informations  et les réservations se font en priorité par mail sur contact@alemftrain.fr 
 
 ### A très bientôt le plaisir de vous accueillir à l'Espace Gare de Vigy.
