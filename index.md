@@ -6,9 +6,9 @@ title: Accueil
 <h1> Bienvenue sur le site du labyrinthe de Vigy ! </h1>
 
 ### Saison 2024
+La saison 2024 est en cours.
 
-La saison 2024 se prépare.
-Dès que la météo sera clémente, nous pourrons débuter le tracé. 
+### Le labyrinthe est ouvert tous les jours de 10h à 19h30. 
 
 ### Quelques modifications pour cette nouvelle saison : 
 - Le labyrinthe et le vélorail font partie de l'Espace Gare de Vigy.
